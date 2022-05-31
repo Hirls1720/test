@@ -1,4 +1,6 @@
 no change here
-some changed
-there sth changed here/ and some changed
+here is somemore change to test get diff --staged
+some changed/this too
+there sth changed here/ 
+and delete some above
 there more things to try
