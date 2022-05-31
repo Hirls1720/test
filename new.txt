@@ -1,2 +1,4 @@
 new commit
 ver 1.0
+test gitignore
+ver 2.0
