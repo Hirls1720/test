@@ -2,4 +2,4 @@
 *test_ignore/*.t
 !test_ignore/file1.t
 !test_ignore/file2.t
-
+*.repo
